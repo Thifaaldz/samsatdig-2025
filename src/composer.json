@@ -10,6 +10,7 @@
         "awcodes/light-switch": "*",
         "awcodes/overlook": "*",
         "aymanalhattami/filament-slim-scrollbar": "*",
+        "barryvdh/laravel-dompdf": "^3.1",
         "bezhansalleh/filament-shield": "*",
         "diogogpinto/filament-auth-ui-enhancer": "*",
         "filament/filament": "^3.3",
